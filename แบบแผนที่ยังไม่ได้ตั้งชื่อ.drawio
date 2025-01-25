@@ -1,9 +1,96 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.8">
   <diagram name="หน้า-1" id="_S0DF7z_LSY2Ez-C6ZfO">
-    <mxGraphModel>
+    <mxGraphModel dx="1674" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="140" y="30" width="500" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iBgFlat;strokeColor=#FFCCCC;fillColor=#FEF9FF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="170" width="440" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-30" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FF99CC;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="202" y="230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FDEDFF,var(--ge-dark-color, #121212));strokeColor=light-dark(#FFCCE6,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ชื่อ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="232" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;นามสกุล&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-41" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FF99CC;shadow=0;dashed=0;shape=mxgraph.ios7.icons.envelope_(empty);" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-47" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Email&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="244" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-50" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FF99CC;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1">
+          <mxGeometry x="205" y="370" width="18" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FDEDFF,var(--ge-dark-color, #121212));strokeColor=light-dark(#FFCCE6,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FDEDFF,var(--ge-dark-color, #121212));strokeColor=light-dark(#FFCCE6,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="460" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FDEDFF,var(--ge-dark-color, #121212));strokeColor=light-dark(#FFCCE6,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="363" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-56" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;หมายเลขโทรศัพท์&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="244" y="370" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-59" value="********" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#FFCCE6;align=left;buttonText=;fontSize=8;whiteSpace=wrap;fillColor=light-dark(#FDEDFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="363" y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-60" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FF99CC;shadow=0;dashed=0;shape=mxgraph.ios7.icons.unlocked;" vertex="1" parent="1">
+          <mxGeometry x="202" y="500" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-61" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ยืนยันรหัสผ่าน&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="244" y="500" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-62" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#FF99CC;shadow=0;dashed=0;shape=mxgraph.ios7.icons.location;" vertex="1" parent="1">
+          <mxGeometry x="202" y="430" width="24" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-63" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FDEDFF,var(--ge-dark-color, #121212));strokeColor=light-dark(#FFCCE6,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="293.5" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-64" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ที่อยู่&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-70" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#4D9900,#FFFFFF);fillColor=light-dark(#CCFFCC,var(--ge-dark-color, #121212));shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="605" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-71" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#CC0000,#FFFFFF);fillColor=light-dark(#FFCCCC,var(--ge-dark-color, #121212));shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="605" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-73" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;สมัครสมาชิก&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="258" y="610" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-74" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ย้อนกลับ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-77" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#001933;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="570" y="180" width="29.7" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-80" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000033;shadow=0;dashed=0;shape=mxgraph.ios7.icons.volume_2;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="530" y="176.4" width="30.299999999999997" height="28.2" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-81" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#FF99CC,#FFFFFF);fillColor=light-dark(#FDEDFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="263" y="680" width="245" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-82" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=light-dark(#FF99CC,#FFFFFF);fillColor=light-dark(#FDEDFF,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="263" y="740" width="245" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-83" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;สมัครสมาชิกด้วย Line&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="745" width="136" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQoAlKDZ-MEh707W1dsV-84" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;สมัครสมาชิกด้วย Google&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285.5" y="685" width="200" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
